@@ -1,5 +1,5 @@
 Cosmos AI Governance Framework
-===
+==============================
 
 ### Hi there 👋
 
@@ -7,20 +7,10 @@ The purpose of our application is to conduct applied research into the usage of 
 
 We believe we can make a fundamental contribution to large scale human governance systems, by removing the greed and self-interest from the congressman or senator and having only the intellectual knowledge as the basis of decision-making. In the cosmos context, this can solve the problem of bribing the validators, which we know has been a big problem to date.
 
+### Plan
 
-<!--
-**gaia-ai-gov/gaia-ai-gov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Scope of work, milestone, timeline, budget all into one doc for the review team.
--->
+- Build a testbed for LLM AI Governance
+- Choose the optimum LLM model to act as a proposer for AI government
+- Try to train the AI to acquire personality and memory characteristics
+- Build a small social sandbox
+- Attempts at various government systems based on AI proposers
